@@ -1,0 +1,12 @@
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleDto\bin\Debug\net6.0\DataGridViewWinFormExampleDto.deps.json
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleDto\bin\Debug\net6.0\DataGridViewWinFormExampleDto.dll
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleDto\bin\Debug\net6.0\DataGridViewWinFormExampleDto.pdb
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleDto\obj\Debug\net6.0\DataGridViewWinFormExampleDto.csproj.AssemblyReference.cache
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleDto\obj\Debug\net6.0\DataGridViewWinFormExampleDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleDto\obj\Debug\net6.0\DataGridViewWinFormExampleDto.AssemblyInfoInputs.cache
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleDto\obj\Debug\net6.0\DataGridViewWinFormExampleDto.AssemblyInfo.cs
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleDto\obj\Debug\net6.0\DataGridViewWinFormExampleDto.csproj.CoreCompileInputs.cache
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleDto\obj\Debug\net6.0\DataGridViewWinFormExampleDto.dll
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleDto\obj\Debug\net6.0\refint\DataGridViewWinFormExampleDto.dll
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleDto\obj\Debug\net6.0\DataGridViewWinFormExampleDto.pdb
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleDto\obj\Debug\net6.0\ref\DataGridViewWinFormExampleDto.dll

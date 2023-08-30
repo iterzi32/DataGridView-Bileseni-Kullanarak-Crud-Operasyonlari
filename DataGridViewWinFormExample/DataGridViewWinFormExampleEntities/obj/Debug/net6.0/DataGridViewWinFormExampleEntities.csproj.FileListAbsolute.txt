@@ -1,0 +1,12 @@
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleEntities\bin\Debug\net6.0\DataGridViewWinFormExampleEntities.deps.json
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleEntities\bin\Debug\net6.0\DataGridViewWinFormExampleEntities.dll
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleEntities\bin\Debug\net6.0\DataGridViewWinFormExampleEntities.pdb
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleEntities\obj\Debug\net6.0\DataGridViewWinFormExampleEntities.csproj.AssemblyReference.cache
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleEntities\obj\Debug\net6.0\DataGridViewWinFormExampleEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleEntities\obj\Debug\net6.0\DataGridViewWinFormExampleEntities.AssemblyInfoInputs.cache
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleEntities\obj\Debug\net6.0\DataGridViewWinFormExampleEntities.AssemblyInfo.cs
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleEntities\obj\Debug\net6.0\DataGridViewWinFormExampleEntities.csproj.CoreCompileInputs.cache
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleEntities\obj\Debug\net6.0\DataGridViewWinFormExampleEntities.dll
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleEntities\obj\Debug\net6.0\refint\DataGridViewWinFormExampleEntities.dll
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleEntities\obj\Debug\net6.0\DataGridViewWinFormExampleEntities.pdb
+C:\Users\ih.terzi\Desktop\Camp_Apps\DataGridViewWinFormExample\DataGridViewWinFormExampleEntities\obj\Debug\net6.0\ref\DataGridViewWinFormExampleEntities.dll
